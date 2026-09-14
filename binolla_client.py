@@ -1,6 +1,6 @@
 import requests
 
-BASE_URL = "https://api1.api.cbtraderbd.xyz"
+BASE_URL = "https://api1.api.cbtradersbd.com"
 
 def get_binolla_payouts():
     url = f"{BASE_URL}/docs"
